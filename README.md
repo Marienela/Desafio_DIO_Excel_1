@@ -50,6 +50,6 @@ Com base no seu perfil (Conservador, Moderado ou Agressivo), a planilha mostra c
 ![image](https://github.com/user-attachments/assets/640454f5-f88d-499a-8994-16c344d3d450)
 
 
-## 🧠 Informativo (Aba auxiliar)
+## 🧠 Planilha de FII
 
-Uma aba complementar mostra, de forma detalhada, a tabela com os percentuais de alocação por tipo de FII de acordo com o perfil de risco do investidor. Essa aba é apenas informativa e não precisa ser editada.
+Tem a tabela com os percentuais de alocação por tipo de FII de acordo com o perfil de risco do investidor. Essa aba é apenas informativa e não precisa ser editada.
